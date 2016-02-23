@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe
 ![alt tag](https://raw.github.com/kenschnall/TicTacToe/master/demo.gif)
 # Introduction
 I was tasked with creating a simple Tic-Tac-Toe game with Java and NetBeans IDE for my midterm project in my Computer Science 221 class (Fall 2015).  I practiced using random number generators as a basic form of AI, and practiced using arrays to store and modify the game board.
