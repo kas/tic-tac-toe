@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tictactoe;
+package TicTacToe;
 
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Scanner;
